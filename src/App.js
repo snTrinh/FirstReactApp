@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <div className="content">
-        <h1>App Component</h1>
+        
         <Home/>
         {/* <h1>{title}}</h1>
         <p>Liked {likes} times</p>
